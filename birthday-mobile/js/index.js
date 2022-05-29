@@ -18,6 +18,6 @@ $("#login-button").click(function (event) {
       location.href = "BirthdayCake.html";
     }, 2000);
   } else {
-    alert("Wrong Password");
+    alert("小提示：今天的日期哦~");
   }
 });
